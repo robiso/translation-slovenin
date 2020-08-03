@@ -1,10 +1,10 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-sl</h1>
-<p align="center">Slovenian translations for WonderCMS (by Robert Isoski)</p>
+<h1 align="center">language-es</h1>
+<p align="center">Spanish translations for WonderCMS (by Perdigano)</p>
 
 <br><br>
 
-This plugin adds Slovenian translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
+This plugin adds Spanish translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
 
 # How to adapt to another language
 1. Fork this repository (which is the latest with all included translations): https://github.com/robiso/translation-slovenian/
@@ -25,7 +25,7 @@ This plugin adds Slovenian translations to the WonderCMS admin area, based on `h
 
 
 ## How this works
-The translations are all in the si_SL.csv file. Why in CVS? That's how all
+The translations are all in the si_SL.csv file. Why in CSV? That's how all
 other major CMSes do it, so there must be a good reason for it.
 
 You will see something like this a lot: 
