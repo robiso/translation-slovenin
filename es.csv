@@ -33,7 +33,7 @@ MENU
 
 FILES
     ">Upload","> Enviar"
-    ">Delete files","> Borrar archvios"
+    ">Delete files","> Borrar archivos"
 
 
 THEMES AND PLUGINS
@@ -48,22 +48,22 @@ THEMES AND PLUGINS
     ">Custom repository",">Repositorio personalizado"
     "Enter URL to custom repository","Dirección URL del repositorio personalizado"
     "> Add", "> Añadir"
-    "> Read more about custom repositories",">Más información sobre respositorio personalizados"
+    "> Read more about custom repositories",">Más información sobre respositorios personalizados"
 
 
 SECURITY
-    ">Admin login URL","> Dirección URL de acceso administración"
+    ">Admin login URL","> Dirección URL de acceso para administración"
     ">Save your login URL to log in to your website next time:",">Guarda esta dirección URL para acceder a la administración del sitio:"
     ">Password",">Contraseña"
     "Old password","Contraseña actual"
     "New password","Nueva contraseña"
     "> Change password","> Cambiar contraseña"
 
-    "> How to restore backup","> Cómo usar copias de seguridad"
-    ">Improved security \(Apache only\)",">Seguridad mejorada (sólo en Apache)"
+    "> How to restore backup","> Cómo recuperar copias de seguridad"
+    ">Improved security \(Apache only\)",">Seguridad mejorada (sólo con Apache)"
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Redirección HTTPS, caché 30 días, iframes permitidas sólo del mismo origen, prevención de escucha de tipos mime, política estricta sobre cookies y referrers."
     ">ON \(warning: may break your website\)",">ACTIVADO (aviso: puede estropear el sitio web)"
-    ">OFF \(reset htaccess to default\)",">DESACTIVADO (usar archivo htaccess original)"
+    ">OFF \(reset htaccess to default\)",">DESACTIVADO (archivo htaccess original)"
     "> Read more before enabling","> Antes de activarlo infórmate bien"
     ">Backup","> Copia de Seguridad"
     "> Backup website","> Hacer copia de seguridad del sitio"
