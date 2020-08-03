@@ -1,39 +1,39 @@
 OVERLAYS
-    ">Saving","> Shranjujem"
-    ">Checking for updates",">Preverjam posodobitve"
+    ">Saving","> Guardando"
+    ">Checking for updates",">Buscando actualizaciones"
 
 
 BUTTONS
-    "> Settings","> Nastavitve"
+    "> Settings","> Ajustes"
 
 
 MENU ITEMS
-    ">Current page",">Trenutna stran"
-    ">Menu",">Meni"
-    ">Files",">Datoteke"
-    ">Themes",">Teme
-    ">Plugins",">Vtičniki"
-    ">Security",">Varnost"
+    ">Current page",">Página actual"
+    ">Menu",">Menú"
+    ">Files",">Archivos"
+    ">Themes",">Temas"
+    ">Plugins",">Complementos"
+    ">Security",">Seguridad"
 
 
 CURRENT PAGE
-    ">Page title",">Ime strani"
-    ">Page keywords",">Ključne besede"
-    ">Page description",">Opis"
-    "> Delete page","> Izbriši stran"
-    "return confirm\('Delete (.*?)\?'\)","return confirm('Izbris $1?')"
+    ">Page title",">Título de la página"
+    ">Page keywords",">Palabras clave"
+    ">Page description",">Descripción"
+    "> Delete page","> Borrar página"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Borrar $1?')"
 
 
 MENU
-    ">Website title","> Naslov strani"
-    ">Page to display on homepage","> Stran za prikaz na domači strani"
-    ">visit",">obišči"
-    "> Add page","> Dodaj stran"
+    ">Website title","> Título del sitio"
+    ">Page to display on homepage","> Página principal a mostrar"
+    ">visit",">visitar"
+    "> Add page","> Añadir página"
 
 
 FILES
-    ">Upload","> Naloži"
-    ">Delete files","> Izbris datotek"
+    ">Upload","> Enviar"
+    ">Delete files","> Borrar archvios"
 
 
 THEMES AND PLUGINS
@@ -71,19 +71,19 @@ SECURITY
 
 
 STATISTICS
-    ">Statistics",">Statistika"
-    ">Today",">Danes"
-    ">This week",">Ta teden"
-    ">Most popular page",">Najbolj popularna stran"
-    ">Pageviews last two weeks",">Št. ogledov v preteklih 2 tednih"
-    ">Sessions last two weeks",">Št. sej v preteklih 2 tednih"
-    ">Sessions",">Št. Sej"
-    ">Pageviews",">Ogledov"
+    ">Statistics",">Estadísticas"
+    ">Today",">Hoy"
+    ">This week",">Esta semana"
+    ">Most popular page",">Página más visitada"
+    ">Pageviews last two weeks",">Visitas últimas dos semanas"
+    ">Sessions last two weeks",">Sesiones últimas dos semanas"
+    ">Sessions",">Sesiones"
+    ">Pageviews",">Visitas"
 
 
 FOOTER
-    ">News",">Novice"
-    ">Community",">Forum"
-    ">Docs",">Dokumentacija"
-    ">Donate",">Doniraj"
-    ">Shop\/Merch",">Shop"
+    ">News",">Novedades"
+    ">Community",">Foro"
+    ">Docs",">Documentación"
+    ">Donate",">Donar"
+    ">Shop\/Merch",">Tienda"
