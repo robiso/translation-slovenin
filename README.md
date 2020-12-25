@@ -1,4 +1,4 @@
-<p align="center"><img src="preview.jpg?v=3" /></p>
+<p align="center"><img src="preview.jpg?v=31" /></p>
 <h1 align="center">language-cs</h1>
 <p align="center">Czech translations for WonderCMS (by Miloslav Hermanek)</p>
 
