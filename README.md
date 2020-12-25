@@ -1,10 +1,10 @@
-<p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-sl</h1>
-<p align="center">Slovenian translations for WonderCMS (by Robert Isoski)</p>
+<p align="center"><img src="preview.jpg?v=31" /></p>
+<h1 align="center">language-cs</h1>
+<p align="center">Czech translations for WonderCMS (by Miloslav Hermanek)</p>
 
 <br><br>
 
-This plugin adds Slovenian translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
+This plugin adds Czech translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
 
 # How to adapt to another language
 1. Fork this repository (which is the latest with all included translations): https://github.com/robiso/translation-slovenian/
