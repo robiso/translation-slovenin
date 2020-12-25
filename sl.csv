@@ -1,5 +1,5 @@
 OVERLAYS
-    ">Saving","> Ukládám"
+    ">Saving",">Ukládám"
     ">Checking for updates",">Vyhledávám aktualizace"
 
 
@@ -11,7 +11,7 @@ MENU ITEMS
     ">Current page",">Tato stránka"
     ">Menu",">Menu"
     ">Files",">Soubory"
-    ">Themes",">Temata
+    ">Themes",">Témata
     ">Plugins",">Pluginy"
     ">Security",">Bezpečnost"
 
