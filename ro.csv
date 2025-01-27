@@ -1,0 +1,89 @@
+OVERLAYS,
+>Saving,> Salvare
+>Checking for updates,>Verifica actualizarile
+,
+,
+BUTTONS,
+> Settings,> Setari
+,
+,
+MENU ITEMS,
+>Current page,>Page curenta
+>Menu,>Meniu
+>Files,>Fisiere
+>Themes,>Teme
+>Plugins,>Pluginuri
+>Security,>Securitate
+,
+,
+CURRENT PAGE,
+>Page title,>Titlul paginii
+>Page keywords,>Cuvinte cheie pentru pagina
+>Page description,>Descrierea paginii
+> Delete page,> Stergerea paginii
+return confirm\('Delete (.*?)\?'\),return confirmare('Stergere $1?')
+,
+,
+MENU,
+>Website title,> Titlul site-ului
+>Page to display on homepage,> Pagina de start
+>visit,>Vizitare
+> Add page,> Adaugare pagina
+,
+,
+FILES,
+>Upload,>Incarcare
+>Delete files,> Stergere fisiere
+,
+,
+THEMES AND PLUGINS,
+> Check for updates,> Verificare actualizari
+return confirm\('Remove (.*?)\?'\),return confirmare('Stergere $1?')
+>Active,>Activ
+return confirm\('Activate (.*?) theme\?'\),return confirmare('Activare $1?')
+> Activate,> Activare
+> More info,> Mai multe informatii 
+> Install,> Instalare
+>Installed version:,>Versiune instalata:
+>Custom repository,>Repozitoriu personalizat
+Enter URL to custom repository,Introducerea URL-ului repozitoriului personalizat
+> Add,> Adaugare  
+> Read more about custom repositories,>Citeste mai mult despre repozitoriul personalizat
+,
+,
+SECURITY,
+>Admin login URL,> URL-ul pentru logarea administratorului
+>Save your login URL to log in to your website next time:,>Salvati noul URL de login pentru viitoarele conectari
+>Password,Parola
+Old password,Parola veche
+New password,Parola noua
+> Change password,> Modificare parola
+,
+> How to restore backup,> Cum se restaureaza un backup
+>Improved security \(Apache only\),>Securitate imbunatatita (doar pentru Apache)
+">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Redirectare HTTPS, 30 zile memorie cache, iframe-uri autorizate doar din aceeasi origine, prévenire sniffing de mime type, politica mai strictareferitoare la cookies."
+>ON \(warning: may break your website\),">ON (Atentie, aceasta actiune poate deteriora site-ul"
+>OFF \(reset htaccess to default\),>OFF (restaurarea fisierului htaccess la starea initiala)
+> Read more before enabling,>Citeste aici inainte de activare
+>Backup,> Backup site
+> Backup website,> Sauvegarder le site internet
+>Last 5 logins,>Ultimele 5 conexiuni
+,
+,
+STATISTICS,
+>Statistics,>Statistici
+>Today,>Astazi
+>This week,>Aceasta saptamana
+>Most popular page,>Cele mai populare pagini
+>Pageviews last two weeks,>Vizualizari in ultimele doua saptamani
+>Sessions last two weeks,>Sesiuni in ultimele doua saptamani
+>Sessions,>Sesiuni
+>Pageviews,>Vizualizari
+,
+,
+FOOTER,
+>News,>Noutati
+>Community,>Forum
+>Docs,>Documentation
+>Donate,>Dons
+>Shop\/Merch,>T-shirts
