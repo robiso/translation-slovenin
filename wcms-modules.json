@@ -3,11 +3,11 @@
     "plugins": {
         "translation-romanian": {
             "name": "Translation Romanian",
-            "repo": "https://github.com/robiso/translation-romanian/tree/master",
-            "zip": "https://github.com/robiso/translation-romanian/archive/master.zip",
+            "repo": "https://github.com/vlahx/translation-romanian/tree/master",
+            "zip": "https://github.com/vlahx/translation-romanian/archive/master.zip",
             "summary": "Romanian translation for WonderCMS settings.",
             "version": "3.0.2",
-            "image": "https://raw.githubusercontent.com/robiso/translation-slovenian/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/vlahx/translation-romanian/master/preview.jpg"
         }
     }
 }
